@@ -8,4 +8,4 @@ Sensing under the Hamiltonian of Stark Model:
 
 3- Impact of the decoherence on the QFI.
 
-4- Implementation of Bayesian estimation.
+4- Implementation of maximum likelihood estimation.
